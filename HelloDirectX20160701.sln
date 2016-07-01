@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual C++ Express 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "HelloDirectX20160701", "HelloDirectX20160701\HelloDirectX20160701.vcxproj", "{E31BD9E4-52F4-4D36-97A3-D665D9B943EB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E31BD9E4-52F4-4D36-97A3-D665D9B943EB}.Debug|Win32.ActiveCfg = Debug|Win32
+		{E31BD9E4-52F4-4D36-97A3-D665D9B943EB}.Debug|Win32.Build.0 = Debug|Win32
+		{E31BD9E4-52F4-4D36-97A3-D665D9B943EB}.Release|Win32.ActiveCfg = Release|Win32
+		{E31BD9E4-52F4-4D36-97A3-D665D9B943EB}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
